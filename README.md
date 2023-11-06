@@ -1,13 +1,4 @@
-\documentclass{article}
-\usepackage{graphicx} % Required for inserting images
 
-\title{Proposal 1}
-\author{shreyashs.deshmukh23 }
-\date{November 2023}
-
-\begin{document}
-
-\maketitle
 
 \section{What is the problem}
 Predicting higher values
